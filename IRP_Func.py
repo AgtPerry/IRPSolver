@@ -18,7 +18,7 @@ os.chdir(FILE_DIR)
 
 start_time = time.time()
 
-DATA_FILE = 'Sample300B.CSV'
+DATA_FILE = 'Sample2000A.CSV'
 TIME_DELAY = 1
 SCANNING_INTERVAL = 0.2
 
@@ -30,7 +30,7 @@ LS_re = True
 LS_sw = True
 
 #==================
-draw_route = True
+draw_route = False
 #==================
 
 
